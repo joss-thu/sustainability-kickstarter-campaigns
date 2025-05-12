@@ -1,0 +1,27 @@
+country_displayable_name	country_code
+the United States	US
+Canada	CA
+Spain	ES
+Australia	AU
+Germany	DE
+the United Kingdom	GB
+Hong Kong	HK
+New Zealand	NZ
+France	FR
+Japan	JP
+the Netherlands	NL
+Italy	IT
+Mexico	MX
+Austria	AT
+Ireland	IE
+Singapore	SG
+Sweden	SE
+Belgium	BE
+Switzerland	CH
+Denmark	DK
+Poland	PL
+Norway	NO
+Luxembourg	LU
+Greece	GR
+Slovenia	SI
+	
